@@ -1,1 +1,1 @@
-Repositório criado com o objetivo de colocar em prática o que está sendo estudado no livro "Lógica de Programação", de Cláudio Vieira Oliveira e Ângela Lühman. Este livro foi uma sugestão dada em sala de aula pelo professor Thyago Maia, cuja matéria em questão era Programação Orientada a Objetos.
+As 10 questões disponibilizadas nas páginas 196 e 197 são exemplos para treinamento básico da linguagem de programação Java. Os autores sugerem como IDE o NetBeans ou Eclipse, mas utilizei o VS Code para desenvolver os códigos.
