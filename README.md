@@ -1,0 +1,1 @@
+Repositório criado com o objetivo de colocar em prática o que está sendo estudado no livro "Lógica de Programação", de Cláudio Vieira Oliveira e Ângela Lühman. Este livro foi uma sugestão dada em sala de aula pelo professor Thyago Maia, cuja matéria em questão era Programação Orientada a Objetos.
