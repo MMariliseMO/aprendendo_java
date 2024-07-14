@@ -4,10 +4,11 @@ package atividadeJava;
 
 import java.util.Scanner;
 
-public class multiplicacao {
+public class Questao2 {
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
 
+        
         System.out.println("Digite o 1º valor: ");
         double valor1 = entrada.nextDouble(); //double é o método de entrada de dado do tipo real
 

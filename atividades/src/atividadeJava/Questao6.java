@@ -4,10 +4,11 @@ package atividadeJava;
 
 import java.util.Scanner;
 
-public class media2 {
+public class Questao6 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
+        
         System.out.println("Digite a 1º Nota: ");
         double primeiraNota = entrada.nextDouble();
 

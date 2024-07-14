@@ -4,10 +4,11 @@ package atividadeJava;
 
 import java.util.Scanner;
 
-public class media {
+public class Questao4 {
     public static void main(String[] args){
         Scanner entrada = new Scanner(System.in);
 
+        
         System.out.println("Digite o 1º número: ");
         double num1 = entrada.nextDouble();
 
